@@ -1,0 +1,39 @@
+```gitignore
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ChromaDB generated data
+vector_store/
+
+# Logs
+logs/
+*.log
+
+# Evaluation outputs
+evaluation/evaluation_results/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+data/raw/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+```
+
