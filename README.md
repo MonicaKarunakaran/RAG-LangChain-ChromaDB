@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RAG Pipeline with LangChain & ChromaDB
 
 ## Project Overview
@@ -62,7 +61,7 @@ RAG-LangChain-ChromaDB/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/MonicaKarunakaran/RAG-LangChain-ChromaDB.git
 cd RAG-LangChain-ChromaDB
 ```
 
@@ -142,11 +141,3 @@ The application uses environment variables to configure the model, embedding mod
 - Add more document formats.
 - Improve answer evaluation and monitoring.
 - Deploy the application as a cloud-hosted service.
-
-## Author
-
-Monika Karunakaran
-=======
-# RAG-LangChain-ChromaDB
-A Retrieval-Augmented Generation (RAG) pipeline using LangChain, ChromaDB, Hugging Face embeddings, and Groq
->>>>>>> fd70661b48470f21a1c444d3dfbb845648a29ffa
