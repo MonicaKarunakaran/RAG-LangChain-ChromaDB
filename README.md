@@ -140,9 +140,7 @@ The application uses environment variables to configure the model, embedding mod
 - Improve retrieval quality through evaluation and parameter tuning.
 - Add more document formats.
 - Improve answer evaluation and monitoring.
-<<<<<<< HEAD
 - Deploy the application as a cloud-hosted service.
-=======
 - Deploy the application as a cloud-hosted service.
 
 # RAG-LangChain-ChromaDB
