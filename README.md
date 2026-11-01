@@ -140,4 +140,12 @@ The application uses environment variables to configure the model, embedding mod
 - Improve retrieval quality through evaluation and parameter tuning.
 - Add more document formats.
 - Improve answer evaluation and monitoring.
+<<<<<<< HEAD
 - Deploy the application as a cloud-hosted service.
+=======
+- Deploy the application as a cloud-hosted service.
+
+# RAG-LangChain-ChromaDB
+A Retrieval-Augmented Generation (RAG) pipeline using LangChain, ChromaDB, Hugging Face embeddings, and Groq
+>>>>>>> fd70661b48470f21a1c444d3dfbb845648a29ffa
+>>>>>>> e3167c6c342708a88ce9e4cfd30fd25c92204067
