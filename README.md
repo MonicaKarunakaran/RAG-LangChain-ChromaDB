@@ -143,10 +143,6 @@ The application uses environment variables to configure the model, embedding mod
 - Improve answer evaluation and monitoring.
 - Deploy the application as a cloud-hosted service.
 
-## Author
-
-Monika Karunakaran
-=======
 # RAG-LangChain-ChromaDB
 A Retrieval-Augmented Generation (RAG) pipeline using LangChain, ChromaDB, Hugging Face embeddings, and Groq
 >>>>>>> fd70661b48470f21a1c444d3dfbb845648a29ffa
