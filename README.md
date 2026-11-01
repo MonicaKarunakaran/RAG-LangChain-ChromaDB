@@ -62,7 +62,7 @@ RAG-LangChain-ChromaDB/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/MonicaKarunakaran/RAG-LangChain-ChromaDB.git
 cd RAG-LangChain-ChromaDB
 ```
 
